@@ -1,0 +1,65 @@
+﻿model_key,inputs,width,method,implication,aggregation,and,step,value,area
+single,"{""Ошибки"": 52}",12.0,max_min,mamdani,max,min,0.5,51.370835935979976,30.53895328694469
+single,"{""Ошибки"": 52}",12.0,max_product,mamdani,max,min,0.5,51.95482587852428,22.415625016487514
+single,"{""Ошибки"": 52}",12.0,levels,mamdani,max,min,0.5,51.370835935979976,30.53895328694469
+single,"{""Ошибки"": 52}",12.0,max_min,larsen,max,min,0.5,51.516038215080854,26.780204571169207
+single,"{""Ошибки"": 52}",12.0,max_product,larsen,max,min,0.5,51.47422817648202,18.325300145038
+single,"{""Ошибки"": 52}",12.0,levels,larsen,max,min,0.5,51.3977640182608,24.676162751114376
+single,"{""Ошибки"": 52}",12.0,max_min,kleene_dienes,max,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_product,kleene_dienes,max,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,levels,kleene_dienes,max,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_min,lukasiewicz,max,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_product,lukasiewicz,max,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,levels,lukasiewicz,max,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_min,mamdani,prob_sum,min,0.5,51.33869531326226,32.61703177995774
+single,"{""Ошибки"": 52}",12.0,max_product,mamdani,prob_sum,min,0.5,52.173675478395985,23.27313126537476
+single,"{""Ошибки"": 52}",12.0,levels,mamdani,prob_sum,min,0.5,51.20385655279546,34.07512080352862
+single,"{""Ошибки"": 52}",12.0,max_min,larsen,prob_sum,min,0.5,51.46259925110844,27.374190502113446
+single,"{""Ошибки"": 52}",12.0,max_product,larsen,prob_sum,min,0.5,51.660510704778716,18.83969619225092
+single,"{""Ошибки"": 52}",12.0,levels,larsen,prob_sum,min,0.5,51.30984746800605,27.29638291188174
+single,"{""Ошибки"": 52}",12.0,max_min,kleene_dienes,prob_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_product,kleene_dienes,prob_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,levels,kleene_dienes,prob_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_min,lukasiewicz,prob_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_product,lukasiewicz,prob_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,levels,lukasiewicz,prob_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_min,mamdani,bounded_sum,min,0.5,51.409814987156786,34.25992510536401
+single,"{""Ошибки"": 52}",12.0,max_product,mamdani,bounded_sum,min,0.5,52.340896179125636,24.328333345733345
+single,"{""Ошибки"": 52}",12.0,levels,mamdani,bounded_sum,min,0.5,51.16999403680358,38.48732551764742
+single,"{""Ошибки"": 52}",12.0,max_min,larsen,bounded_sum,min,0.5,51.46924465742085,27.8341817021195
+single,"{""Ошибки"": 52}",12.0,max_product,larsen,bounded_sum,min,0.5,51.75380391706791,19.176725143868506
+single,"{""Ошибки"": 52}",12.0,levels,larsen,bounded_sum,min,0.5,51.31571195559368,29.45906979094568
+single,"{""Ошибки"": 52}",12.0,max_min,kleene_dienes,bounded_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_product,kleene_dienes,bounded_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,levels,kleene_dienes,bounded_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_min,lukasiewicz,bounded_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_product,lukasiewicz,bounded_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,levels,lukasiewicz,bounded_sum,min,0.5,50.0,100.0
+single,"{""Ошибки"": 52}",12.0,max_min,mamdani,min,min,0.5,,0.0
+single,"{""Ошибки"": 52}",12.0,max_product,mamdani,min,min,0.5,,0.0
+single,"{""Ошибки"": 52}",12.0,levels,mamdani,min,min,0.5,,0.0
+single,"{""Ошибки"": 52}",12.0,max_min,larsen,min,min,0.5,,0.0
+single,"{""Ошибки"": 52}",12.0,max_product,larsen,min,min,0.5,,0.0
+single,"{""Ошибки"": 52}",12.0,levels,larsen,min,min,0.5,,0.0
+single,"{""Ошибки"": 52}",12.0,max_min,kleene_dienes,min,min,0.5,49.999999999999844,53.11627869329923
+single,"{""Ошибки"": 52}",12.0,max_product,kleene_dienes,min,min,0.5,49.99999999999988,33.762499834750095
+single,"{""Ошибки"": 52}",12.0,levels,kleene_dienes,min,min,0.5,50.0,17.420930486686874
+single,"{""Ошибки"": 52}",12.0,max_min,lukasiewicz,min,min,0.5,50.038114688452545,57.570780455670835
+single,"{""Ошибки"": 52}",12.0,max_product,lukasiewicz,min,min,0.5,50.012932921490666,37.11458317770842
+single,"{""Ошибки"": 52}",12.0,levels,lukasiewicz,min,min,0.5,50.23364262007314,19.42441887506491
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,mamdani,max,min,0.5,56.07878510036923,22.720000052199964
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,larsen,max,min,0.5,55.723588728640586,15.809600075977997
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,kleene_dienes,max,min,0.5,50.0,100.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,lukasiewicz,max,min,0.5,50.0,100.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,mamdani,prob_sum,min,0.5,57.47393144437306,29.356767550153556
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,larsen,prob_sum,min,0.5,56.9537686172682,20.069544942090037
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,kleene_dienes,prob_sum,min,0.5,50.0,100.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,lukasiewicz,prob_sum,min,0.5,50.0,100.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,mamdani,bounded_sum,min,0.5,57.50534530129354,34.76500016169998
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,larsen,bounded_sum,min,0.5,56.992612982485895,22.112316788403664
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,kleene_dienes,bounded_sum,min,0.5,50.0,100.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,lukasiewicz,bounded_sum,min,0.5,50.0,100.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,mamdani,min,min,0.5,,0.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,larsen,min,min,0.5,,0.0
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,kleene_dienes,min,min,0.5,49.999999999999844,43.330000071400136
+multi,"{""Ошибки"": 52, ""Время"": 55, ""Память"": 70}",0.0,levels,lukasiewicz,min,min,0.5,50.35041195853799,48.55000017400018
